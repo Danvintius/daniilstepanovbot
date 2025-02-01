@@ -1,7 +1,7 @@
 from random import choice
 import telebot
 
-token = ''
+token = '*'
 
 bot = telebot.TeleBot(token)
 
